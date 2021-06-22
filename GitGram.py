@@ -79,8 +79,8 @@ def source(_bot, update):
 
 start_handler = CommandHandler("start", start)
 help_handler = CommandHandler("help", help)
-supportCmd = CommandHandler("support", support)
-sourcecode = CommandHandler("source", source)
+supportCmd = CommandHandler("eva", support)
+sourcecode = CommandHandler("lirin", source)
 
 dispatcher.add_handler(start_handler)
 dispatcher.add_handler(help_handler)

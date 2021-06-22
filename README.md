@@ -1,6 +1,3 @@
-# GitGram Self-hosted
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/pokurt/GitGram)
-
 This repository is where the self-hosted, private instance version of GitGram lives. It uses plain webhooks and PTB to receive repository
 activity and send it to your groups or to your PMs.
 

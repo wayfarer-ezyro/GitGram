@@ -50,7 +50,7 @@ def start(_bot, update):
     """/start message for bot"""
     message = update.effective_message
     message.reply_text(
-        f"[😝](https://telegra.ph/file/4ac23a15b5a34628a223d.jpg)",
+        f"",
         parse_mode="markdown")
 
 def help(_bot, update):
